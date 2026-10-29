@@ -24,6 +24,8 @@ To quantify model confidence, Monte Carlo (MC) Dropout is employed to estimate p
 
 The proposed aggregation strategies adjust client contributions according to predictive uncertainty, enabling more reliable local models to have greater influence on the global model update.
 
+![UA-FedAvg Overview](assets/UA-FedAvg_overview.png)
+
 ---
 
 ## Abstract

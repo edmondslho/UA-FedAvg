@@ -5,7 +5,7 @@ Official implementation of:
 > **Uncertainty-Aware Federated Learning for Infant Movement Analysis**  
 > **Edmond S. L. Ho**
 
-This repository hosts the official implementation of **UA-FedAvg** and the associated experiments presented in the paper *"Uncertainty-Aware Federated Learning for Infant Movement Analysis"*, accepted at the **2026 4th International Conference on Federated Learning Technologies and Applications (FLTA 2026)**.
+This repository hosts the official implementation of **UA-FedAvg** and the associated experiments presented in the paper *"Uncertainty-Aware Federated Learning for Infant Movement Analysis"*, accepted at the **2026 4th International Conference on Federated Learning Technologies and Applications (FLTA 2026)**. Pre-preint available at: https://arxiv.org/abs/2609.31463
 
 ---
 

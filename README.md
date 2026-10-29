@@ -92,7 +92,7 @@ To start training the model, run:
 python main.py
 ```
 
-Training settings can be modified through the configuration files and command-line arguments provided within the repository.
+Training settings can be modified through main.py.
 
 ---
 
@@ -100,11 +100,11 @@ Training settings can be modified through the configuration files and command-li
 
 ### Centralized Training
 
-Baseline training using pooled data from all participating sites.
+Baseline training using pooled data from all participating sites. (coming soon)
 
 ### Local Training
 
-Independent client training without federated aggregation.
+Independent client training without federated aggregation. (coming soon)
 
 ### FedAvg
 
@@ -117,24 +117,6 @@ Federated aggregation weighted according to predictive uncertainty estimated usi
 ### UA-FedAvg + Validation Loss
 
 Extension of UA-FedAvg that incorporates both predictive uncertainty and validation performance during aggregation.
-
----
-
-## Repository Structure
-
-```text
-.
-├── main.py
-├── models/
-├── federated/
-├── datasets/
-├── utils/
-├── configs/
-├── checkpoints/
-└── README.md
-```
-
-*Note: The repository structure may evolve as additional code and utilities are released.*
 
 ---
 

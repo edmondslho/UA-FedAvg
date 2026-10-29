@@ -1,9 +1,0 @@
-Put your datasets (ie different split settings) here.
-
-You will have something like:
-
-data_vitpose_3clients_9fold-111-211/
-data_vitpose_3clients_9fold-211-211/
-data_vitpose_3clients_9fold-211-112/
-...
-etc.
